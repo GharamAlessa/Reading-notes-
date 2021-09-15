@@ -54,7 +54,8 @@ until I reach my goal in programming robots
 |  11 | [Mongo and Mongoose](https://gharamalessa.github.io/Reading-notes-/read11) |
 |  12 | [CRUD](https://gharamalessa.github.io/Reading-notes-/read12) |
 |  13 | [Diversity & Inclusion in the Tech Industry](https://gharamalessa.github.io/Reading-notes-/read13) |
-|  14 | [Project Ideas](https://gharamalessa.github.io/Reading-notes-/read14) |
+|  14a | [User Authentication with Auth0](https://gharamalessa.github.io/Reading-notes-/read14a) |
+|  14b | [Project Ideas](https://gharamalessa.github.io/Reading-notes-/read14b) |
 
 
 
